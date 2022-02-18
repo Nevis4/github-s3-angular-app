@@ -1,6 +1,10 @@
 # GithubS3AngularApp
 
+## The project was created for learning CI / CD
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+
+The project works with the assumptions of CI / CD. When code in a repository is pushed it automatically builds itself in AWS CodeBuild. Then the application is hosted on AWS S3.
 
 ## Development server
 
@@ -25,3 +29,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Author
+Przemysław Malara 
+## Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/przemysław-malara-b15748216/)
